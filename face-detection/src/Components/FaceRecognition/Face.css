@@ -1,0 +1,21 @@
+.bounding-box {
+    position: absolute;
+    box-shadow: 0 0 0 3px #149df2 inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
+#imageid {
+    width: 500px;
+}
+@media only screen and (max-width: 600px){
+    .picture {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}

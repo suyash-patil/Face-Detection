@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Buenard&display=swap');
+
+.fonts {
+    font-family: 'Buenard',sans-serif,'Courier New', Courier, monospace;
+}
+.icons {
+
+    vertical-align: middle;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    padding-bottom: 5px;
+  }
+  a {
+    text-decoration: none;
+  }
+  a:visited { text-decoration: none; color:black; }
+  a:hover { text-decoration: none; color:black; }
+  a:focus { text-decoration: none; color:black; }
+  a:hover, a:active { text-decoration: none; color:black }
+  

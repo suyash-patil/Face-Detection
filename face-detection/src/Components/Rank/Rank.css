@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Recursive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+.entry {
+    font-family: 'Recursive',sans-serif,'Times New Roman', Times, serif;
+}
+
+.statement {
+    font-family: 'Crimson Text', sans-serif,'Times New Roman', Times, serif;
+}
