@@ -19,5 +19,4 @@ This is how it looks like:
 - React
 - Express
 - PostgreSQL
-- Heroku
-- Git
+- Node.js
